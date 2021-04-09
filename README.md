@@ -1,6 +1,8 @@
 # MeuProjetoAngular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5 during a study course on desenvolvedor.io.
+
+Single Page Application with some Data Binding concepts - Interpolation, Property Binding, Event Binding and Two-Way Binding.
 
 ## Development server
 
